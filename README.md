@@ -98,10 +98,10 @@ const mehrozAli = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-mehrozali%40email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehrozali@email.com)
+[![Email](https://img.shields.io/badge/Email-mehrozali%40email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehrozali1096@email.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehroz_Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehrozali)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://mehrozali.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-mehrozali-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehrozali)
+[![GitHub](https://img.shields.io/badge/GitHub-mehrozali-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/mehrozali](https://github.com/Mehrozz-Ali)
 
 </div>
 
