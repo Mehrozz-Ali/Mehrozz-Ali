@@ -71,12 +71,12 @@ const mehrozAli = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=mehrozali&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehrozali&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Mehrozz-Ali&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrozz-Ali&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mehrozali&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mehrozz-Ali&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" />
 </div>
 
 ---
@@ -98,10 +98,9 @@ const mehrozAli = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-mehrozali%40email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehrozali1096@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehroz_Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehrozali)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://mehrozali.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-mehrozali-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/mehrozali](https://github.com/Mehrozz-Ali)
+[![Email](https://img.shields.io/badge/Email-mehrozali1096%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehrozali1096@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehroz_Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehroz-ali-124190369/)
+[![GitHub](https://img.shields.io/badge/GitHub-Mehrozz--Ali-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mehrozz-Ali)
 
 </div>
 
@@ -109,7 +108,7 @@ const mehrozAli = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=mehrozali&color=58A6FF&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Mehrozz-Ali&color=58A6FF&style=flat-square&label=Profile+Views)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=80&section=footer"/>
 
