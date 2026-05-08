@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=120&section=header"/>
-
 # Mehroz Ali
 
 **Full Stack MERN Developer** &nbsp;|&nbsp; **Open Source Enthusiast** &nbsp;|&nbsp; **API Architect**
