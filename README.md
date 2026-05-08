@@ -23,33 +23,41 @@ Full Stack MERN Developer focused on building scalable, production-ready web app
 
 ## 🛠️ Tech Stack
 
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Context API](https://img.shields.io/badge/Context_API-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Database & Tools**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+      <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
+      <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react" title="React" />
+      <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
+      <img src="https://skillicons.dev/icons?i=vite" title="Vite" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
+      <img src="https://skillicons.dev/icons?i=express" title="Express.js" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Database & Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
+      <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
+      <img src="https://skillicons.dev/icons?i=git" title="Git" />
+      <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+      <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
+    </td>
+  </tr>
+</table>
 
 ---
 
