@@ -4,7 +4,7 @@
 
 **Full Stack MERN Developer** &nbsp;|&nbsp; **Open Source Enthusiast** &nbsp;|&nbsp; **API Architect**
 
-[mehrozali1096@gmail.com](mailto:mehrozali1096@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mehroz-ali-124190369/) &nbsp;·&nbsp; [GitHub](https://github.com/Mehrozz-Ali)
+[Email](mailto:mehrozali1096@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mehroz-ali-124190369/) &nbsp;·&nbsp; [GitHub](https://github.com/Mehrozz-Ali)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mehrozz-Ali&color=58A6FF&style=flat-square&label=Profile+Views)
 ![GitHub Followers](https://img.shields.io/github/followers/Mehrozz-Ali?style=flat-square&color=58A6FF&labelColor=161B22&label=GitHub+Followers)
