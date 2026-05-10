@@ -19,6 +19,22 @@ Full Stack MERN Developer focused on building scalable, production-ready web app
 
 ---
 
+## 🌍 Open Source Contributions
+
+| Project | Stars | Forks | Contributions |
+|---------|-------|-------|---------------|
+| **apache** `beam` | ⭐ 8.6k | 🍴 4.6k | [Pull Requests](https://github.com/apache/beam/pulls) \| [Issues](https://github.com/apache/beam/issues) |
+| **apache** `airflow` | ⭐ 45k | 🍴 17k | [Pull Requests](https://github.com/apache/airflow/pulls) \| [Issues](https://github.com/apache/airflow/issues) |
+| **archestra-ai** `archestra` | ⭐ 3.6k | 🍴 592 | [Pull Requests](https://github.com/archestra-ai/archestra/pulls) \| [Issues](https://github.com/archestra-ai/archestra/issues) |
+| **google-gemini** `gemini-cli` | ⭐ 104k | 🍴 14k | [Pull Requests](https://github.com/google-gemini/gemini-cli/pulls) \| [Issues](https://github.com/google-gemini/gemini-cli/issues) |
+| **webpack** `webpack` | ⭐ 66k | 🍴 9.4k | [Pull Requests](https://github.com/webpack/webpack/pulls) \| [Issues](https://github.com/webpack/webpack/issues) |
+| **CCExtractor** `ccsync` | ⭐ 39 | 🍴 78 | [Pull Requests](https://github.com/CCExtractor/ccsync/pulls) \| [Issues](https://github.com/CCExtractor/ccsync/issues) |
+| **dailydotdev** `apps` | ⭐ 986 | 🍴 292 | [Pull Requests](https://github.com/dailydotdev/apps/pulls) \| [Issues](https://github.com/dailydotdev/apps/issues) |
+| **jaegertracing** `jaeger` | ⭐ 23k | 🍴 2.9k | [Pull Requests](https://github.com/jaegertracing/jaeger/pulls) \| [Issues](https://github.com/jaegertracing/jaeger/issues) |
+| **palisadoes** `talawa-admin` | ⭐ 261 | 🍴 1.2k | [Pull Requests](https://github.com/PalisadoesFoundation/talawa-admin/pulls) \| [Issues](https://github.com/PalisadoesFoundation/talawa-admin/issues) |
+
+---
+
 ## 🛠️ Tech Stack
 
 <table>
