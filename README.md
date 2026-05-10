@@ -118,7 +118,7 @@ Full Stack MERN Developer focused on building scalable, production-ready web app
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/mehroz-ali-124190369/) &nbsp;·&nbsp; [GitHub](https://github.com/Mehrozz-Ali) &nbsp;·&nbsp; [mehrozali1096@gmail.com](mailto:mehrozali1096@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mehroz-ali-124190369/) &nbsp;·&nbsp; [GitHub](https://github.com/Mehrozz-Ali) &nbsp;·&nbsp;[Email][mehrozali1096@gmail.com](mailto:mehrozali1096@gmail.com)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=80&section=footer"/>
 
