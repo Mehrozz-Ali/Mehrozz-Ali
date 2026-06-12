@@ -62,6 +62,7 @@ Full Stack MERN Developer focused on building scalable, production-ready web app
     <td>
       <img src="https://skillicons.dev/icons?i=react" title="React" />
       <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
       <img src="https://skillicons.dev/icons?i=vite" title="Vite" />
     </td>
   </tr>
