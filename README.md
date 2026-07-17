@@ -4,8 +4,7 @@
 
 **Full Stack MERN Developer** &nbsp;|&nbsp; **Open Source Enthusiast** &nbsp;|&nbsp; **API Architect**
 
-[Email](mailto:mehrozali1096@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mehroz-ali-124190369/) &nbsp;·&nbsp; [GitHub](https://github.com/Mehrozz-Ali)
-
+[Portfolio](https://portfolio-neon-seven-59.vercel.app/) &nbsp;·&nbsp; [Email](mailto:mehrozali1096@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mehroz-ali-124190369/) &nbsp;·&nbsp; [GitHub](https://github.com/Mehrozz-Ali)
 ![Profile Views](https://komarev.com/ghpvc/?username=Mehrozz-Ali&color=58A6FF&style=flat-square&label=Profile+Views)
 ![GitHub Followers](https://img.shields.io/github/followers/Mehrozz-Ali?style=flat-square&color=58A6FF&labelColor=161B22&label=GitHub+Followers)
 
@@ -119,7 +118,7 @@ Full Stack MERN Developer focused on building scalable, production-ready web app
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/mehroz-ali-124190369/) &nbsp;·&nbsp; [GitHub](https://github.com/Mehrozz-Ali) &nbsp;·&nbsp; [Email](mailto:mehrozali1096@gmail.com)
+[Portfolio](https://portfolio-neon-seven-59.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mehroz-ali-124190369/) &nbsp;·&nbsp; [GitHub](https://github.com/Mehrozz-Ali) &nbsp;·&nbsp; [Email](mailto:mehrozali1096@gmail.com)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=80&section=footer"/>
 
